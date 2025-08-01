@@ -6,7 +6,7 @@ Angular technical test focused on consuming **The Cat API**, which allows you to
 
 ## Motivation
 
-This project aims to demonstrate essential capabilities in Angular: HTTP consumption, state management, structured templates, reactive forms, and unit testing. It is intended as a realistic technical evaluation.
+This project aims to demonstrate essential capabilities in Angular: HTTP consumption, state management, structured templates. It is intended as a realistic technical evaluation.
 
 ---
 
